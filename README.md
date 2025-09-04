@@ -259,7 +259,7 @@ The **Power BI dashboard** integrates predictions, anomalies, and KPIs into a si
 - 🎛️ **Interactive Filters** – by department, surgeon, day of week, or time period.  
 
 <img width="563" height="717" alt="image" src="https://github.com/user-attachments/assets/d1565e58-7926-4bb5-8458-555d94a552d2" />
-
+https://drive.google.com/file/d/1yMn6VE2U8tdf_q0Id5HmwFkaGo6O2bkj/view?usp=drive_link 
 ### Example Screens (to insert):
 - OR utilization trends (line + bar charts)  
 - Bed occupancy forecast by department  
