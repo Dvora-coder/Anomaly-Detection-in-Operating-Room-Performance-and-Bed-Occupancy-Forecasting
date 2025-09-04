@@ -1,0 +1,2 @@
+# Anomaly-Detection-in-Operating-Room-Performance-and-Bed-Occupancy-Forecasting
+This project analyzes hospital operational data with two goals: detecting anomalies in surgical performance and forecasting daily bed occupancy. Using SQL, Python, and predictive models, it supports clinical decision-making and resource planning (Real hospital data was used but cannot be shared here due to privacy and safety regulations). 
