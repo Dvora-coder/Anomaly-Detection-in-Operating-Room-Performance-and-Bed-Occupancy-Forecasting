@@ -1,6 +1,4 @@
-🏥 OR-Insight: Anomaly Detection & Bed Occupancy Forecasting
-
-
+**OR-Insight: Anomaly Detection & Bed Occupancy Forecasting**
 Predictive analytics & optimization for hospital operations:
 detect anomalies in OR performance, forecast inpatient bed occupancy (5–7 days ahead), and optimize schedules—all surfaced via a Power BI operational dashboard.
 
@@ -87,7 +85,7 @@ The project aims to improve efficiency and decision-making in hospital operation
 - Integrate results into a **real-time Power BI dashboard** for hospital managers.  
 - Provide a foundation for **optimization models** (CP-SAT, MILP) to redesign scheduling under clinical and logistical constraints.
 
-✅ The ultimate goal is to **reduce delays, improve patient satisfaction, and optimize hospital resource use** while maintaining safety and quality of care.
+The ultimate goal is to **reduce delays, improve patient satisfaction, and optimize hospital resource use** while maintaining safety and quality of care.
 
 ---
 
