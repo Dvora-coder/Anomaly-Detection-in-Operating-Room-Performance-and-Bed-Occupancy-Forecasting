@@ -1,4 +1,5 @@
 **OR-Insight: Anomaly Detection & Bed Occupancy Forecasting**
+
 Predictive analytics & optimization for hospital operations:
 detect anomalies in OR performance, forecast inpatient bed occupancy (5–7 days ahead), and optimize schedules—all surfaced via a Power BI operational dashboard.
 
